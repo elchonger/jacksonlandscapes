@@ -14,7 +14,7 @@
         <meta name="twitter:card" content="summary_large_image">
         
         <title>Jackson Landscaping - Kent's premier landscaping and outdoor solutions specialists.</title>
-        <link rel="shortcut icon" type="image/jpg" href="favicon.webp"/>
+        <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
