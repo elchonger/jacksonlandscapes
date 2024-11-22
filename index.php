@@ -295,7 +295,7 @@
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="assets/img/gallery/paving%202.webp">
-                            <img class="img-thumb" src="assets/img/gallery/paving%202.webp" alt="Circular sandstone paving with artificial lawn - Jackson Landscaping" />
+                            <img class="img-thumb" src="assets/img/gallery/paving-2.webp" alt="Circular sandstone paving with artificial lawn - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
