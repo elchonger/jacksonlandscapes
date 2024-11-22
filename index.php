@@ -6,15 +6,15 @@
         <meta property="og:title" content="Jackson Landscaping">
         <meta property="og:description" content="Kent's premier landscaping and outdoor solutions specialists.">
           <meta name="keywords" content="gardening, garden, landscaping, kent, westgate-on-sea, whitstable, faversham, margate, driveways, patios, fencing, gates">
-        <meta property="og:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.jpg">
+        <meta property="og:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.webp">
         <meta property="og:url" content="https://jacksonlandscapes.uk">
         <meta name="twitter:title" content="Jackson Landscaping">
         <meta name="twitter:description" content="Kent's premier landscaping and outdoor solutions specialists.">
-        <meta name="twitter:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.jpg">
+        <meta name="twitter:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.webp">
         <meta name="twitter:card" content="summary_large_image">
         
         <title>Jackson Landscaping - Kent's premier landscaping and outdoor solutions specialists.</title>
-        <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
+        <link rel="shortcut icon" type="image/jpg" href="favicon.webp"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -102,7 +102,7 @@
                 <h2>Services</h2>
                 <!-- Project One Row-->
                     <div class="row gx-0 mb-5 justify-content-center">
-                        <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image2.jpg" alt="Precision laid paving by Jackson Landscaping" /></div>
+                        <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image2.webp" alt="Precision laid paving by Jackson Landscaping" /></div>
                         <div class="col-lg-6 order-lg-first">
                             <div class="bg-black text-center h-100 project">
                                 <div class="d-flex h-100">
@@ -117,7 +117,7 @@
                     </div>
                 <!-- Project Two Row-->
                 <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.jpg" alt="A block paved driveway by Jackson Landscaping" /></div>
+                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.webp" alt="A block paved driveway by Jackson Landscaping" /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -132,7 +132,7 @@
                 </div>
                     <!-- Project three Row-->
                 <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-gate.jpg" alt="Wooden gate and panel fencing by Jackson Landscaping" /></div>
+                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-gate.webp" alt="Wooden gate and panel fencing by Jackson Landscaping" /></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -147,7 +147,7 @@
                 </div>
                       <!-- Project four Row-->
                 <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/lawn.jpg" alt="Artificial lawn by Jackson Landscaping" /></div>
+                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/lawn.webp" alt="Artificial lawn by Jackson Landscaping" /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -162,7 +162,7 @@
                 </div>
                            <!-- Project five Row-->
                 <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-cabin.jpg" alt="Wooden cabin office by Jackson Landscapin" /></div>
+                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-cabin.webp" alt="Wooden cabin office by Jackson Landscapin" /></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -177,7 +177,7 @@
                 </div>
                       <!-- Project six Row-->
                 <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.jpg" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.webp" alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -238,88 +238,88 @@
         <div id="links">
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/turfing-and-patio-1.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/turfing-and-patio-1.jpg" alt="Six foot wooden fencing with stone patio and turfed lawn - Jackson Landscaping" />
+                          <a href="assets/img/gallery/turfing-and-patio-1.webp">
+                            <img class="img-thumb" src="assets/img/gallery/turfing-and-patio-1.webp" alt="Six foot wooden fencing with stone patio and turfed lawn - Jackson Landscaping" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/turfing-and-patio-2.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/turfing-and-patio-2.jpg" alt="Turfed lawn with six foot fencing and paved decking area - Jackson Landscaping" />
+                          <a href="assets/img/gallery/turfing-and-patio-2.webp">
+                            <img class="img-thumb" src="assets/img/gallery/turfing-and-patio-2.webp" alt="Turfed lawn with six foot fencing and paved decking area - Jackson Landscaping" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing-3.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing-3.jpg" alt="Grey stone patio and wooden fencing - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing-3.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing-3.webp" alt="Grey stone patio and wooden fencing - Jackson Landscaping" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing-5.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing-5.jpg" alt="Stone patio with three stone steps - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing-5.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing-5.webp" alt="Stone patio with three stone steps - Jackson Landscaping" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing-6.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing-6.jpg" alt="Raised flowerbed and wooden fence - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing-6.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing-6.webp" alt="Raised flowerbed and wooden fence - Jackson Landscaping" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing-7.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing-7.jpg" alt="Wooden fencing with six foot panels - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing-7.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing-7.webp" alt="Wooden fencing with six foot panels - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/image1.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/image1.jpg" alt="Brick driveway - Jackson Landscaping" />
+                          <a href="assets/img/gallery/image1.webp">
+                            <img class="img-thumb" src="assets/img/gallery/image1.webp" alt="Brick driveway - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/patio.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/patio.jpg" alt="Sandstone patio with bespoke fencing - Jackson Landscaping" />
+                          <a href="assets/img/gallery/patio.webp">
+                            <img class="img-thumb" src="assets/img/gallery/patio.webp" alt="Sandstone patio with bespoke fencing - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/patio-3.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/patio-3.jpg" alt="Floral designed stone patio - Jackson Landscaping" />
+                          <a href="assets/img/gallery/patio-3.webp">
+                            <img class="img-thumb" src="assets/img/gallery/patio-3.webp" alt="Floral designed stone patio - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/patio-4.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/patio-4.jpg" alt="Wooden fencing, gate and stone patio with artificial lawn - Jackson Landscaping" />
+                          <a href="assets/img/gallery/patio-4.webp">
+                            <img class="img-thumb" src="assets/img/gallery/patio-4.webp" alt="Wooden fencing, gate and stone patio with artificial lawn - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/paving.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/paving.jpg" alt="Grey stone paving with steps - Jackson Landscaping" />
+                          <a href="assets/img/gallery/paving.webp">
+                            <img class="img-thumb" src="assets/img/gallery/paving.webp" alt="Grey stone paving with steps - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/paving%202.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/paving%202.jpg" alt="Circular sandstone paving with artificial lawn - Jackson Landscaping" />
+                          <a href="assets/img/gallery/paving%202.webp">
+                            <img class="img-thumb" src="assets/img/gallery/paving%202.webp" alt="Circular sandstone paving with artificial lawn - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/paving-3.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/paving-3.jpg" alt="Grey paving surrounding large swimming pool - Jackson Landscaping" />
+                          <a href="assets/img/gallery/paving-3.webp">
+                            <img class="img-thumb" src="assets/img/gallery/paving-3.webp" alt="Grey paving surrounding large swimming pool - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/paving-4.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/paving-4.jpg" alt="Grey paving around 3 trees - Jackson Landscaping" />
+                          <a href="assets/img/gallery/paving-4.webp">
+                            <img class="img-thumb" src="assets/img/gallery/paving-4.webp" alt="Grey paving around 3 trees - Jackson Landscaping" />
                           </a>
                     </div>
                   <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/paving-5.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/paving-5.jpg" alt="Grey stone paving pathway - Jackson Landscaping" />
+                          <a href="assets/img/gallery/paving-5.webp">
+                            <img class="img-thumb" src="assets/img/gallery/paving-5.webp" alt="Grey stone paving pathway - Jackson Landscaping" />
                           </a>
                     </div>
                 <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing.jpg" alt="Wooden fencing with stone patio and artificial lawn - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing.webp" alt="Wooden fencing with stone patio and artificial lawn - Jackson Landscaping" />
                           </a>
                     </div>
                     <div class="col-sm-6 col-lg-3 image-gallery">
-                          <a href="assets/img/gallery/fencing-2.jpg">
-                            <img class="img-thumb" src="assets/img/gallery/fencing-2.jpg" alt="Six foot wooden fence - Jackson Landscaping" />
+                          <a href="assets/img/gallery/fencing-2.webp">
+                            <img class="img-thumb" src="assets/img/gallery/fencing-2.webp" alt="Six foot wooden fence - Jackson Landscaping" />
                           </a>
                     </div>
     
