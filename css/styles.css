@@ -53,7 +53,7 @@
 
 body {
   margin: 0;
-  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "IBM Plex Sans", serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -93,12 +93,23 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
-    padding-bottom: 50px;
+    padding-bottom: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
 }
 @media (min-width: 1200px) {
   h2, .h2 {
     font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    
   }
+}
+h2.underline{
+  border-bottom: 5px solid #ff00fe;
+  width: fit-content;
 }
 
 h3, .h3 {
@@ -5705,7 +5716,7 @@ textarea.form-control-lg {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "IBM Plex Sans", serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -11136,7 +11147,7 @@ body {
   #mainNav.navbar-shrink .nav-link.active {
     color: #111836;
     outline: none;
-    border-bottom: 0.25rem solid #111836;
+    border-bottom: 0.25rem solid #ff00fe;
   }
 
 }
@@ -11148,7 +11159,7 @@ body {
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "IBM Plex Sans", serif;
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
@@ -11168,10 +11179,10 @@ body {
   background-size: cover;
 }
 .masthead h1, .masthead .h1 {
-  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1.8rem;
+  font-family: "IBM Plex Sans", serif;  font-size: 1.8rem;
+  font-weight: 700;
   line-height: 2.5rem;
-  letter-spacing: 0.8rem;
+  letter-spacing: 0.3rem;
   background: #fff;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -11181,6 +11192,7 @@ body {
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
   font-size: 1rem;
+  font-weight: 600;
 }
 @media (min-width: 768px) {
   .masthead h1, .masthead .h1 {
@@ -11196,11 +11208,12 @@ body {
   .masthead h1, .masthead .h1 {
     font-size: 4rem;
     line-height: 4.5rem;
-    letter-spacing: 0.8rem;
+    letter-spacing: 0.3rem;
   }
   .masthead h2, .masthead .h2 {
     max-width: 30rem;
     font-size: 1.25rem;
+    font-weight: 600;
   }
 }
 
@@ -11255,9 +11268,115 @@ body {
         border-top: 0.5rem solid #e0e721;
     } 
 }
+/*other gallery*/
+
+
+.gallery-container {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.image-gallery {
+  display: flex;
+  overflow-x: auto; /* Make the gallery horizontally scrollable */
+  scroll-snap-type: x mandatory; /* Enable snap scrolling */
+  width: 100%;
+}
+
+.image-gallery img {
+  flex-shrink: 0;
+  width: 100vw; /* Ensure images occupy the full viewport width */
+  height: auto;
+  cursor: pointer;
+  scroll-snap-align: center; /* Ensure each image snaps to the center */
+  transition: transform 0.3s ease;
+}
+
+.image-gallery img:hover {
+}
+
+.dot-navigation {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+    bottom: 20px;
+    /* margin: auto; */
+    /* text-align: center; */
+    left: 0;
+    right: 0;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 5px;
+  border-radius: 50%;
+  background-color: #bbb;
+  cursor: pointer;
+}
+
+.dot:hover {
+  background-color: #717171;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fullscreen Modal */
+.fullscreen-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.fullscreen-modal img {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+.close-btn:hover {
+  color: #ccc;
+}
+
+/*other end*/
+
+
+.masthead-bg{
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/shop.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+
+
+
+}
 /*Gallery starts here*/
 .image-gallery {
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
 }
 img.img-thumb{
     max-height: 200px;
