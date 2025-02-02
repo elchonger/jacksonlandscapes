@@ -11314,14 +11314,17 @@ body {
   border-radius: 50%;
   background-color: #bbb;
   cursor: pointer;
+  background: none;
+  border: 1px solid #ff00fe;
 }
 
 .dot:hover {
   background-color: #717171;
 }
 
-.active {
+.activeDot {
   background-color: #717171;
+  
 }
 
 /* Fullscreen Modal */
