@@ -4351,6 +4351,7 @@ textarea.form-control-lg {
 }
 .navbar-light .navbar-nav .nav-link {
   color: rgba(0, 0, 0, 0.55);
+  text-transform: uppercase;
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
   color: rgba(0, 0, 0, 0.7);
@@ -4847,6 +4848,7 @@ textarea.form-control-lg {
 }
 .alert-primary .alert-link {
   color: #304e4b;
+
 }
 
 .alert-secondary {
@@ -11172,7 +11174,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/homepage.webp");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/surrounding-garden-paving-1.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11247,7 +11249,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 3rem;
   }
   .projects-section .project-text hr {
     border-color: #111836;
@@ -11312,18 +11314,18 @@ body {
   width: 15px;
   margin: 0 5px;
   border-radius: 50%;
-  background-color: #bbb;
+  background-color: #ff00fe;
   cursor: pointer;
   background: none;
   border: 1px solid #ff00fe;
 }
 
-.dot:hover {
-  background-color: #717171;
+.dot:active{
+  background-color:  #ff00fe;
 }
 
 .activeDot {
-  background-color: #717171;
+  background-color: #ff00fe;
   
 }
 

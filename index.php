@@ -54,8 +54,8 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-                        <!-- <li class="nav-item"><a class="nav-link" href="#shop">Shop</a></li> -->
+                       <!-- <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                         <li class="nav-item"><a class="nav-link" href="#shop">Shop</a></li> -->
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -183,7 +183,7 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Metal railings and gates</h4>
+                                    <h4 class="text-white">Swimming pools</h4>
                                     <p class="mb-0 text-white-50">We can supply and install single or double, made to measure wrought iron gates.</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
@@ -193,11 +193,11 @@
                 </div>
             </div>
           </section>
-        <section class="projects-section bg-light" id="projects">
+        <!-- <section class="projects-section bg-light" id="projects">
             <div class="container px-4 px-lg-5">
             <h2>Projects</h2>
             <div class="row gx-0 justify-content-center">
-           <!-- Gallery controls-->          
+           Gallery controls       
                    <div
           id="blueimp-gallery"
           class="blueimp-gallery"
@@ -235,7 +235,7 @@
           ></a>
           <ol class="indicator"></ol>
         </div>
-           <!-- Gallery controls end-->     
+           Gallery controls end     
         <div id="links">
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
@@ -328,7 +328,7 @@
         </div>
     </div>
 </div>
-        </section>
+        </section> -->
  
         <!-- Contact-->
         <section class="contact-section bg-black" id="contact">
