@@ -120,20 +120,20 @@
                       <span class="dot" onclick="currentSlide(10, 'fencing')"></span>
                     </div>
                     <div class="image-gallery">
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/6-ft-wooden-fence.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">   
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/drive-and-fencing.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/6-ft-wooden-fence.webp" alt="Six-foot wooden panel fencing installed by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Beautifully crafted wooden gate by Jackson Landscaping" onclick="openFullscreen(this)">   
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/drive-and-fencing.webp" alt="High-quality six-foot wooden fencing created and installed by Jackson Landscaping" onclick="openFullscreen(this)">                     
                   
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-2.webp" alt="Classic wooden panel fence expertly built by Jackson Landscaping" onclick="openFullscreen(this)">                     
 
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-3.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-3.webp" alt="Elegant and durable six-foot wooden panel fencing from Jackson Landscaping" onclick="openFullscreen(this)">                     
 
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-6.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-6.webp" alt="Six-foot wooden panel with trellis fencing installed by Jackson Landscaping" onclick="openFullscreen(this)">                     
 
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-7.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-8.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
-                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-7.webp" alt="Privacy-enhancing six-foot wooden fencing professionally installed by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-8.webp" alt="Expertly crafted six-foot wooden fence adding security and charm by Jackson Landscaping." onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing.webp" alt="Durable and stylish wooden panel fencing by Jackson Landscaping." onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Classic wooden gate expertly built by Jackson Landscaping" onclick="openFullscreen(this)">                     
                     </div>
                   
                    
