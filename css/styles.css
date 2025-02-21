@@ -4094,6 +4094,39 @@ textarea.form-control-lg {
 .tab-content > .active {
   display: block;
 }
+.contact-number-mob {
+  text-align: center;
+  width: 100%;
+}
+.contact-number{
+  padding-top: 15px;
+  text-align: center;
+  color: #000;
+}
+@media (max-width: 998px) {
+
+.contact-number{
+      display: none;
+  }
+}
+@media (min-width: 998px) {
+  .contact-number-mob{
+      display: none;
+  }
+
+}
+@media (min-width: 1200px) {
+  .contact-number{
+  padding-left: 100px;
+      font-size: 20px;
+  }
+}
+@media (min-width: 1400px) {
+  .contact-number{
+  padding-left: 250px;
+      font-size: 20px;
+  }
+}
 
 .navbar {
   position: relative;
@@ -11175,10 +11208,16 @@ body {
   min-height: 35rem;
   padding: 15rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/surrounding-garden-paving-1.webp");
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+}
+@media (min-width: 1024px) {
+.masthead {
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/surrounding-garden-paving-1.webp");
+  background-position: center;
+}
 }
 .masthead h1, .masthead .h1 {
   font-family: "IBM Plex Sans", serif;  font-size: 1.8rem;
@@ -11364,22 +11403,6 @@ body {
 /*other end*/
 
 
-.masthead-bg{
-  position: relative;
-  width: 100%;
-  height: auto;
-  min-height: 35rem;
-  padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/shop.webp");
-  background-position: left;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
-  @media (min-width: 1024px) {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/shop.webp");
-    background-position: center;
-  }
-}
  .container-shop {
             position: relative;
             width: 100%;

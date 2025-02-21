@@ -50,6 +50,10 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container px-4 px-lg-5">
                 <a class="navbar-brand" href="#page-top"><img class="logo" src="assets/jackson-landscaping-logo.png"></a>
+                <div class="contact-number justify-content-center">
+                <p>Call us now:<br><a href="tel:07956846616">07956 846616</a></p>
+         
+            </div>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fas fa-bars"></i>
                 </button>
@@ -100,16 +104,16 @@
             
                   <div class="gallery-container">
                     <div class="dot-navigation">
-                      <span class="dot" onclick="currentSlide(1)"></span>
-                      <span class="dot" onclick="currentSlide(2)"></span>
-                      <span class="dot" onclick="currentSlide(3)"></span>
-                      <span class="dot" onclick="currentSlide(4)"></span>
-                      <span class="dot" onclick="currentSlide(5)"></span>
-                      <span class="dot" onclick="currentSlide(6)"></span>
-                      <span class="dot" onclick="currentSlide(7)"></span>
-                      <span class="dot" onclick="currentSlide(8)"></span>
-                      <span class="dot" onclick="currentSlide(9)"></span>
-                      <span class="dot" onclick="currentSlide(10)"></span>
+                      <span class="dot" onclick="currentSlide(1, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(2, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(3, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(4, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(5, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(6, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(7, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(8, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(9, 'fencing')"></span>
+                      <span class="dot" onclick="currentSlide(10, 'fencing')"></span>
                     </div>
                     <div class="image-gallery">
                       <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/6-ft-wooden-fence.webp" alt="Image 1" onclick="openFullscreen(this)">
@@ -148,10 +152,10 @@
                   <div class="col-lg-6">
                     <div class="gallery-container">
                       <div class="dot-navigation">
-                        <span class="dot" onclick="currentSlide(1)"></span>
-                        <span class="dot" onclick="currentSlide(2)"></span>
-                        <span class="dot" onclick="currentSlide(3)"></span>
-                        <span class="dot" onclick="currentSlide(4)"></span>
+                        <span class="dot" onclick="currentSlide(1, 'driveway')"></span>
+                        <span class="dot" onclick="currentSlide(2, 'driveway')"></span>
+                        <span class="dot" onclick="currentSlide(3, 'driveway')"></span>
+                        <span class="dot" onclick="currentSlide(4, 'driveway')"></span>
           
                    
                       </div>
@@ -184,16 +188,16 @@
                     <div class="col-lg-6">
                       <div class="gallery-container">
                         <div class="dot-navigation">
-                          <span class="dot" onclick="currentSlide(1)"></span>
-                          <span class="dot" onclick="currentSlide(2)"></span>
-                          <span class="dot" onclick="currentSlide(3)"></span>
-                          <span class="dot" onclick="currentSlide(4)"></span>
-                          <span class="dot" onclick="currentSlide(5)"></span>
-                          <span class="dot" onclick="currentSlide(6)"></span>
-                          <span class="dot" onclick="currentSlide(7)"></span>
-                          <span class="dot" onclick="currentSlide(8)"></span>
-                          <span class="dot" onclick="currentSlide(9)"></span>
-                          <span class="dot" onclick="currentSlide(10)"></span>
+                          <span class="dot" onclick="currentSlide(1, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(2, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(3, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(4, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(5, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(6, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(7, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(8, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(9, 'paving')"></span>
+                          <span class="dot" onclick="currentSlide(10, 'paving')"></span>
                      
                         </div>
                         <div class="image-gallery">
@@ -230,13 +234,13 @@
             
                   <div class="gallery-container">
                     <div class="dot-navigation">
-                      <span class="dot" onclick="currentSlide(1)"></span>
-                      <span class="dot" onclick="currentSlide(2)"></span>
+                      <span class="dot" onclick="currentSlide(1, 'artificial-lawn')"></span>
+                      <span class="dot" onclick="currentSlide(2, 'artificial-lawn')"></span>
                  
                     </div>
                     <div class="image-gallery">
-                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-lawn.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-turf.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-lawn.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-turf.webp" alt="Artificial turfing by Jackson Landscaping" onclick="openFullscreen(this)">                     
                     </div>
                   
                    
@@ -260,10 +264,10 @@
             
                   <div class="gallery-container">
                     <div class="dot-navigation">
-                      <span class="dot" onclick="currentSlide(1)"></span>
-                      <span class="dot" onclick="currentSlide(2)"></span>
-                      <span class="dot" onclick="currentSlide(3)"></span>
-                      <span class="dot" onclick="currentSlide(4)"></span>
+                      <span class="dot" onclick="currentSlide(1, 'cabins')"></span>
+                      <span class="dot" onclick="currentSlide(2, 'cabins')"></span>
+                      <span class="dot" onclick="currentSlide(3, 'cabins')"></span>
+                      <span class="dot" onclick="currentSlide(4, 'cabins')"></span>
                  
                     </div>
                     <div class="image-gallery">
@@ -291,11 +295,11 @@
               <div class="row gx-0 mb-5 justify-content-center">
                   <div class="col-lg-6"><div class="gallery-container">
                     <div class="dot-navigation">
-                      <span class="dot" onclick="currentSlide(1)"></span>
-                      <span class="dot" onclick="currentSlide(2)"></span>
-                      <span class="dot" onclick="currentSlide(3)"></span>
-                      <span class="dot" onclick="currentSlide(4)"></span>
-                      <span class="dot" onclick="currentSlide(5)"></span>
+                      <span class="dot" onclick="currentSlide(1, 'swimming-pools')"></span>
+                      <span class="dot" onclick="currentSlide(2, 'swimming-pools')"></span>
+                      <span class="dot" onclick="currentSlide(3, 'swimming-pools')"></span>
+                      <span class="dot" onclick="currentSlide(4, 'swimming-pools')"></span>
+                      <span class="dot" onclick="currentSlide(5, 'swimming-pools')"></span>
     
                  
                     </div>
