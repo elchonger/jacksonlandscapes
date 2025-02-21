@@ -51,9 +51,12 @@
             <div class="container px-4 px-lg-5">
                 <a class="navbar-brand" href="#page-top"><img class="logo" src="assets/jackson-landscaping-logo.png"></a>
                 <div class="contact-number justify-content-center">
-                <p>Call us now:<br><a href="tel:07956846616">07956 846616</a></p>
+                <p>Call now:<br><a href="tel:07956846616">07956 846616</a></p>
          
             </div>
+            <div class="contact-number-mob justify-content-center">
+                <p>Call now:<br><a href="tel:07956846616">07956 846616</a></p>
+         </div>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fas fa-bars"></i>
                 </button>
@@ -69,6 +72,7 @@
                     </ul>
                 </div>
             </div>
+          
         </nav>
         <!-- Masthead-->
             <header class="masthead">
