@@ -11371,14 +11371,55 @@ body {
   min-height: 35rem;
   padding: 15rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/shop.webp");
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
-
-
-
+  @media (min-width: 1024px) {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 75%, #111836 100%), url("../assets/img/shop.webp");
+    background-position: center;
+  }
 }
+ .container-shop {
+            position: relative;
+            width: 100%;
+            height: 115vh;
+            background: url('../assets/img/shop-mob.webp') no-repeat center top/contain;
+           
+        }
+        @media (min-width: 1024px) {
+          .container-shop {
+          background: url('../assets/img/shop.webp') no-repeat center center/cover;
+          }
+        }
+        .shop-border-top {
+          width: 100%;
+          border-top: 0.5rem  solid #e0e721; /* Adjust thickness & color as needed */
+          margin: 0px auto 50px;
+          
+      }
+      @media (min-width: 1024px) {
+        .shop-border-top{
+        width: 45%;
+        }
+      }
+        .shop-wrapper {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            background: #0b0e1e;
+            color: white;
+            text-align: center;
+            padding: 0 50px;
+        }
+        .shop-content{
+          margin: auto auto 50px;
+        }
+        @media (min-width: 1024px) {
+          .shop-content {
+              max-width: 940px;
+          }
+      }
 /*Gallery starts here*/
 .image-gallery {
     /* padding-bottom: 30px; */
