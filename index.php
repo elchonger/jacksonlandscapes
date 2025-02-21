@@ -18,8 +18,11 @@
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
         <!-- Core theme CSS (includes Bootstrap)-->
          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -52,10 +55,12 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
+                      
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                       <!-- <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-                         <li class="nav-item"><a class="nav-link" href="#shop">Shop</a></li> -->
+                        <li class="nav-item"><a class="nav-link" href="#shop">Shop</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li> -->
+                       
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -73,132 +78,287 @@
                 </div>
             </div>
         </header>
-        <!-- About -->
-        <section class="projects-section bg-light" id="about">
-            <div class="container px-4 px-lg-5 col-lg-7">
-                <h2>About</h2>
-                    <div class="row gx-0 justify-content-center">
-                <p>Jackson Landscaping are a friendly reliable company operating in south east Kent. We offer a wide variety of landscaping and outdoor services. With over 20 years of experience in the trade, there is no job too big or too small. Our knowledge can inform and advise you from the start to the end of your project. </p>
-                
-                <p><a href="#contact">Please contact us to discuss your project and arrange a free quotation</a>.</p>
-                    </div>
-            </div>
-        </section>
-              <!-- Visit -->
-        <!-- <div class="masthead-fw">
-        <section class="projects-section bg-light" id="visit">
-            <div class="container px-4 px-lg-5 col-lg-7">
-                <h2>Visit the shop</h2>
-                    <div class="row gx-0 justify-content-center">
-                <p>Jackson Landscaping are a friendly reliable company operating in south east Kent. We offer a wide variety of landscaping and outdoor services. With over 20 years of experience in the trade, there is no job too big or too small. Our knowledge can inform and advise you from the start to the end of your project. </p>
-                
-                <p><a href="#contact">Please contact us to discuss your project and arrange a free quotation</a>.</p>
-                    </div>
-            </div>
-        </section>
-        </div>     -->
-        <!-- Projects-->
+         <!-- About -->
+         <section class="projects-section bg-light" id="about">
+          <div class="container px-4 px-lg-5 col-lg-7">
+              <h2 class="underline">About</h2>
+                  <div class="row gx-0 justify-content-center">
+              <p>Jackson Landscaping are a friendly reliable company operating in south east Kent. We offer a wide variety of landscaping and outdoor services. With over 20 years of experience in the trade, there is no job too big or too small. Our knowledge can inform and advise you from the start to the end of your project. </p>
+              
+              <p><a href="#contact">Please contact us to discuss your project and arrange a free quotation</a>.</p>
+                  </div>
+          </div>
+      </section>
+        <!-- Services -->
         <section class="projects-section bg-light" id="services">
-            <div class="container px-4 px-lg-5">
-                <h2>Services</h2>
-                <!-- Project One Row-->
-                    <div class="row gx-0 mb-5 justify-content-center">
-                        <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image2.webp" alt="Precision laid paving by Jackson Landscaping" /></div>
-                        <div class="col-lg-6 order-lg-first">
-                            <div class="bg-black text-center h-100 project">
-                                <div class="d-flex h-100">
-                                    <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                        <h4 class="text-white">Block paving and patios</h4>
-                                        <p class="mb-0 text-white-50">We offer a huge selection of precision laid paving and patios. Whatever colour or material you need, we have got you covered.</p>
-                                        <hr class="d-none d-lg-block mb-0 ms-0" />
-                                    </div>
-                                </div>
+          <div class="container px-4 px-lg-5">
+              <h2 class="underline">Services</h2>
+              <!-- Project One Row-->
+              <div class="row gx-0 mb-5 justify-content-center">
+                <div class="col-lg-6">
+               
+            
+                  <div class="gallery-container">
+                    <div class="dot-navigation">
+                      <span class="dot" onclick="currentSlide(1)"></span>
+                      <span class="dot" onclick="currentSlide(2)"></span>
+                      <span class="dot" onclick="currentSlide(3)"></span>
+                      <span class="dot" onclick="currentSlide(4)"></span>
+                      <span class="dot" onclick="currentSlide(5)"></span>
+                      <span class="dot" onclick="currentSlide(6)"></span>
+                      <span class="dot" onclick="currentSlide(7)"></span>
+                      <span class="dot" onclick="currentSlide(8)"></span>
+                      <span class="dot" onclick="currentSlide(9)"></span>
+                      <span class="dot" onclick="currentSlide(10)"></span>
+                    </div>
+                    <div class="image-gallery">
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/6-ft-wooden-fence.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">   
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/drive-and-fencing.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                  
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-3.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-6.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-7.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing-8.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/fencing.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                      <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
+                    </div>
+                  
+                   
+                  </div></div>
+                <div class="col-lg-6 order-lg-first">
+                    <div class="bg-black text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                <h4 class="text-white">Fencing and gates</h4>
+                                <p class="mb-0 text-white-50">Our expert team can advise and install custom secure gates and fencing. We can accommodate any size or style of fencing you require.</p>
+                                <hr class="d-none d-lg-block mb-0 ms-0" />
                             </div>
                         </div>
                     </div>
-                <!-- Project Two Row-->
-                <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.webp" alt="A block paved driveway by Jackson Landscaping" /></div>
+                </div>
+            </div>
+                 
+              <!-- Project Two Row-->
+              <div class="row gx-0 mb-5 justify-content-center">
+                  <div class="col-lg-6">
+                    <div class="gallery-container">
+                      <div class="dot-navigation">
+                        <span class="dot" onclick="currentSlide(1)"></span>
+                        <span class="dot" onclick="currentSlide(2)"></span>
+                        <span class="dot" onclick="currentSlide(3)"></span>
+                        <span class="dot" onclick="currentSlide(4)"></span>
+          
+                   
+                      </div>
+                      <div class="image-gallery">
+                        
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/image1.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/image4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/brick-driveway.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/paving-5.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+
+                      </div>
+                      </div>
+
+                    
+                     
+                    </div>                  <div class="col-lg-6">
+                      <div class="bg-black text-center h-100 project">
+                          <div class="d-flex h-100">
+                              <div class="featured-text project-text w-100 my-auto text-center text-lg-right">
+                                  <h4 class="text-white">Driveways</h4>
+                                  <p class="mb-0 text-white-50">Choose from an extensive range of driveway materials. Including resin, block paving and Indian sandstone.</p>
+                                  <hr class="d-none d-lg-block mb-0 me-0" />
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+                  <!-- Project three Row-->
+                  <div class="row gx-0 mb-5 justify-content-center">
                     <div class="col-lg-6">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="featured-text project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Driveways</h4>
-                                    <p class="mb-0 text-white-50">Choose from an extensive range of driveway materials. Including resin, block paving and Indian sandstone.</p>
-                                    <hr class="d-none d-lg-block mb-0 me-0" />
-                                </div>
-                            </div>
+                      <div class="gallery-container">
+                        <div class="dot-navigation">
+                          <span class="dot" onclick="currentSlide(1)"></span>
+                          <span class="dot" onclick="currentSlide(2)"></span>
+                          <span class="dot" onclick="currentSlide(3)"></span>
+                          <span class="dot" onclick="currentSlide(4)"></span>
+                          <span class="dot" onclick="currentSlide(5)"></span>
+                          <span class="dot" onclick="currentSlide(6)"></span>
+                          <span class="dot" onclick="currentSlide(7)"></span>
+                          <span class="dot" onclick="currentSlide(8)"></span>
+                          <span class="dot" onclick="currentSlide(9)"></span>
+                          <span class="dot" onclick="currentSlide(10)"></span>
+                     
                         </div>
-                    </div>
-                </div>
-                    <!-- Project three Row-->
-                <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-gate.webp" alt="Wooden gate and panel fencing by Jackson Landscaping" /></div>
-                    <div class="col-lg-6 order-lg-first">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Fencing and gates</h4>
-                                    <p class="mb-0 text-white-50">Our expert team can advise and install custom secure gates and fencing. We can accommodate any size or style of fencing you require.</p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
-                                </div>
-                            </div>
+                        <div class="image-gallery">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/image2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-3.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-3.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-6.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-9.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-10.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/turfing-and-patio-2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+
                         </div>
-                    </div>
-                </div>
-                      <!-- Project four Row-->
-                <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/lawn.webp" alt="Artificial lawn by Jackson Landscaping" /></div>
-                    <div class="col-lg-6">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Artificial lawns</h4>
-                                    <p class="mb-0 text-white-50">Choose from a large choice of artificial lawn colours, expertly fitted for any outdoor space.</p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
-                                </div>
-                            </div>
                         </div>
-                    </div>
-                </div>
-                           <!-- Project five Row-->
-                <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/wooden-cabin.webp" alt="Wooden cabin office by Jackson Landscapin" /></div>
-                    <div class="col-lg-6 order-lg-first">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Wooden cabins</h4>
-                                    <p class="mb-0 text-white-50">Our beautifully constructed wooden cabins are perfect for working at home or just chilling out in.</p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
-                                </div>
-                            </div>
                         </div>
+                      <div class="col-lg-6 order-lg-first">
+                          <div class="bg-black text-center h-100 project">
+                              <div class="d-flex h-100">
+                                  <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                      <h4 class="text-white">Block paving and patios</h4>
+                                      <p class="mb-0 text-white-50">We offer a huge selection of precision laid paving and patios. Whatever colour or material you need, we have got you covered.</p>
+                                      <hr class="d-none d-lg-block mb-0 ms-0" />
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                    <!-- Project four Row-->
+              <div class="row gx-0 mb-5 justify-content-center">
+                <div class="col-lg-6">
+               
+            
+                  <div class="gallery-container">
+                    <div class="dot-navigation">
+                      <span class="dot" onclick="currentSlide(1)"></span>
+                      <span class="dot" onclick="currentSlide(2)"></span>
+                 
                     </div>
-                </div>
-                      <!-- Project six Row-->
-                <div class="row gx-0 mb-5 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid services" src="assets/img/gallery/image4.webp" alt="..." /></div>
-                    <div class="col-lg-6">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Swimming pools</h4>
-                                    <p class="mb-0 text-white-50">We can supply and install single or double, made to measure wrought iron gates.</p>
-                                    <hr class="d-none d-lg-block mb-0 ms-0" />
-                                </div>
-                            </div>
-                        </div>
+                    <div class="image-gallery">
+                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-lawn.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-turf.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                     
                     </div>
+                  
+                   
+                  </div></div>
+                  <div class="col-lg-6">
+                      <div class="bg-black text-center h-100 project">
+                          <div class="d-flex h-100">
+                              <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
+                                  <h4 class="text-white">Artificial lawns</h4>
+                                  <p class="mb-0 text-white-50">Choose from a large choice of artificial lawn colours, expertly fitted for any outdoor space.</p>
+                                  <hr class="d-none d-lg-block mb-0 ms-0" />
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+                         <!-- Project five Row-->
+              <div class="row gx-0 mb-5 justify-content-center">
+                <div class="col-lg-6">
+               
+            
+                  <div class="gallery-container">
+                    <div class="dot-navigation">
+                      <span class="dot" onclick="currentSlide(1)"></span>
+                      <span class="dot" onclick="currentSlide(2)"></span>
+                      <span class="dot" onclick="currentSlide(3)"></span>
+                      <span class="dot" onclick="currentSlide(4)"></span>
+                 
+                    </div>
+                    <div class="image-gallery">
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/cabin-barbers.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin-with-artifical-lawn.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)"> 
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">   
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-sitting-area.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                       
+                    </div>
+                  
+                   
+                  </div></div>
+                  <div class="col-lg-6 order-lg-first">
+                      <div class="bg-black text-center h-100 project">
+                          <div class="d-flex h-100">
+                              <div class="featured-text-right project-text w-100 my-auto text-center text-lg-left">
+                                  <h4 class="text-white">Wooden cabins</h4>
+                                  <p class="mb-0 text-white-50">Our beautifully constructed wooden cabins are perfect for working at home or just chilling out in.</p>
+                                  <hr class="d-none d-lg-block mb-0 ms-0" />
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+                    <!-- Project six Row-->
+              <div class="row gx-0 mb-5 justify-content-center">
+                  <div class="col-lg-6"><div class="gallery-container">
+                    <div class="dot-navigation">
+                      <span class="dot" onclick="currentSlide(1)"></span>
+                      <span class="dot" onclick="currentSlide(2)"></span>
+                      <span class="dot" onclick="currentSlide(3)"></span>
+                      <span class="dot" onclick="currentSlide(4)"></span>
+                      <span class="dot" onclick="currentSlide(5)"></span>
+    
+                 
+                    </div>
+                    <div class="image-gallery">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-1.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-2.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-3.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-4.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-5.webp" alt="Image 1" onclick="openFullscreen(this)">
+                    </div>
+                  
+                   
+                  </div></div>
+                  <div class="col-lg-6">
+                      <div class="bg-black text-center h-100 project">
+                          <div class="d-flex h-100">
+                              <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
+                                  <h4 class="text-white">Swimming Pools</h4>
+                                  <p class="mb-0 text-white-50">Our expertise can create you a bespoke garden swimming pool.</p>
+                                  <hr class="d-none d-lg-block mb-0 ms-0" />
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+                      <!-- Fullscreen Image Modal -->
+<div id="fullscreen-modal" class="fullscreen-modal" onclick="closeFullscreen()">
+  <span class="close-btn">&times;</span>
+  <img id="fullscreen-img" src="" alt="Fullscreen Image">
+  </div>
+        </section>
+               <!-- Visit -->
+               <section class="projects-section bg-none" id="shop">
+                <div class="container px-4 px-lg-5">
+                <h2 class="underline">Shop</h2>
+              </div>
+               <div class="container-shop">
+                
+                <div class="shop-wrapper">
+                  <div class="shop-border-top"></div>
+
+                  <div class="shop-content">
+                  <h2 class="text-white">Visit the shop</h2>
+                  <p class="text-white ">Visit our Westgate-on-Sea shop and browse our extensive range of wooden cabins. Not sure what paving to use? Then come on down and view all samples of fencing panels, paving and bricks.</p>
+                  <p class="text-white ">Open to trades and the public.</p>
+                  
+                  <a class="btn btn-primary" href="https://www.google.com/maps/place/Jackson+Fencing+and+Landscapes/data=!4m2!3m1!1s0x0:0x2efd04bcaca83bb4?sa=X&ved=1t:2428&ictx=111">Visit us</a>
                 </div>
+              </div>
             </div>
           </section>
+                
+       
+         
+        
         <!-- <section class="projects-section bg-light" id="projects">
             <div class="container px-4 px-lg-5">
             <h2>Projects</h2>
-            <div class="row gx-0 justify-content-center">
-           Gallery controls       
-                   <div
+            <div class="row gx-0 justify-content-center"> -->
+           <!-- Gallery controls-->          
+                   <!-- <div
           id="blueimp-gallery"
           class="blueimp-gallery"
           aria-label="image gallery"
@@ -234,9 +394,9 @@
             role="button"
           ></a>
           <ol class="indicator"></ol>
-        </div>
-           Gallery controls end     
-        <div id="links">
+        </div> -->
+           <!-- Gallery controls end-->     
+        <!-- <div id="links">
             <div class="row">
                      <div class="col-sm-6 col-lg-3 image-gallery">
                           <a href="assets/img/gallery/turfing-and-patio-1.webp">
@@ -333,7 +493,7 @@
         <!-- Contact-->
         <section class="contact-section bg-black" id="contact">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-white">Contact</h2>
+                <h2 class="text-white underline">Contact</h2>
                 <div class="row gx-4 gx-lg-5">
                     <!--<div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
@@ -414,6 +574,7 @@
         <script src="js/jquery.blueimp-gallery.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <script src="js/script.js"></script>
         <script src="js/blueimp-gallery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
 
