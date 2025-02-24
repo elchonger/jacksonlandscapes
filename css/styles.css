@@ -4096,7 +4096,8 @@ textarea.form-control-lg {
 }
 .contact-number-mob {
   text-align: center;
-  width: 100%;
+  padding: 0.9rem 0 0 0;
+  width: auto;
 }
 .contact-number{
   padding-top: 15px;
@@ -11408,11 +11409,13 @@ background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4)
             width: 100%;
             height: 115vh;
             background: url('../assets/img/shop-mob.webp') no-repeat center top/contain;
+            max-height: 710px;
            
         }
         @media (min-width: 1024px) {
           .container-shop {
           background: url('../assets/img/shop.webp') no-repeat center center/cover;
+          max-height: none;
           }
         }
         .shop-border-top {
