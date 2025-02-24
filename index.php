@@ -55,7 +55,7 @@
          
             </div>
             <div class="contact-number-mob justify-content-center">
-                <p>Call now:<br><a href="tel:07956846616">07956 846616</a></p>
+                <p>CALL NOW<br><a href="tel:07956846616">07956 846616</a></p>
          </div>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fas fa-bars"></i>
@@ -79,7 +79,7 @@
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
-                        <h1 class="mx-auto my-0 text-uppercase">Bespoke Landscaping Solutions</h1>
+                        <h1 class="mx-auto my-0 text-uppercase">Bespoke Fencing and Landscaping Solutions</h1>
                         <h2 class="text-white-50 mx-auto mt-2 mb-5">Friendly, reliable and experienced</h2>
                         <a class="btn btn-primary" href="#contact">Get a quote</a>
                     </div>
@@ -91,8 +91,7 @@
           <div class="container px-4 px-lg-5 col-lg-7">
               <h2 class="underline">About</h2>
                   <div class="row gx-0 justify-content-center">
-              <p>Jackson Landscaping are a friendly reliable company operating in south east Kent. We offer a wide variety of landscaping and outdoor services. With over 20 years of experience in the trade, there is no job too big or too small. Our knowledge can inform and advise you from the start to the end of your project. </p>
-              
+<p>Jackson Fencing and Landscaping, a trusted name in South East Kent, delivers high-quality landscaping and outdoor services. With over 20 years of industry experience, we take on projects of all sizes, offering expert guidance from concept to completion.</p>              
               <p><a href="#contact">Please contact us to discuss your project and arrange a free quotation</a>.</p>
                   </div>
           </div>
@@ -165,10 +164,10 @@
                       </div>
                       <div class="image-gallery">
                         
-                        <img class="img-fluid services" src="assets/img/gallery/driveways/image1.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                        <img class="img-fluid services" src="assets/img/gallery/driveways/image4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                        <img class="img-fluid services" src="assets/img/gallery/driveways/brick-driveway.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                        <img class="img-fluid services" src="assets/img/gallery/driveways/paving-5.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/image1.webp" alt="A brick paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/image4.webp" alt="Expertly Crafted Brick-Paved Driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/brick-driveway.webp" alt="Elegant Brick Driveway Designed by Jackson Landscaping" onclick="openFullscreen(this)">
+                        <img class="img-fluid services" src="assets/img/gallery/driveways/paving-5.webp" alt="Durable and Stylish Brick Paving by Jackson Landscaping" onclick="openFullscreen(this)">
 
                       </div>
                       </div>
@@ -205,16 +204,16 @@
                      
                         </div>
                         <div class="image-gallery">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/image2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-3.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-3.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-4.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-6.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-9.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-10.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
-                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/turfing-and-patio-2.webp" alt="A block paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-2.webp" alt="Beautifully Crafted Block-Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/image2.webp" alt="Durable & Stylish Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-3.webp" alt="Expertly Laid Block Paving Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-4.webp" alt="Premium Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-3.webp" alt="Custom Block Paved Patio Designed by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-4.webp" alt="Elegant Block Paving for Your Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-6.webp" alt="High-Quality Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-9.webp" alt="Stunning Block Paved Patio Installation by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/paving-10.webp" alt="Enhance Your Outdoor Space with a Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
+                          <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/turfing-and-patio-2.webp" alt="Tailor-Made Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
 
                         </div>
                         </div>
@@ -275,10 +274,10 @@
                  
                     </div>
                     <div class="image-gallery">
-                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/cabin-barbers.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin-with-artifical-lawn.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)"> 
-                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">   
-                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-sitting-area.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">                       
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/cabin-barbers.webp" alt="Custom-Built Wooden Cabin by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin-with-artifical-lawn.webp" alt="Handcrafted Wooden Cabin by Jackson Landscaping" onclick="openFullscreen(this)"> 
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin.webp" alt="Jackson Landscaping’s Tailor-Made Wooden Cabin" onclick="openFullscreen(this)">   
+                      <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-sitting-area.webp" alt="Rustic Elegance: Wooden Cabin by Jackson Landscaping" onclick="openFullscreen(this)">                       
                     </div>
                   
                    
@@ -308,11 +307,11 @@
                  
                     </div>
                     <div class="image-gallery">
-                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-1.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-2.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-3.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-4.webp" alt="Image 1" onclick="openFullscreen(this)">
-                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-5.webp" alt="Image 1" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-1.webp" alt="Exquisitely Designed Bespoke Swimming Pools by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-2.webp" alt="Custom Elegant Swimming Pools by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-3.webp" alt="Luxury Bespoke Swimming Pools Crafted by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-4.webp" alt="Tailor-Made Elegant Pools by Jackson Landscaping" onclick="openFullscreen(this)">
+                      <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-5.webp" alt="Sophisticated Bespoke Pools by Jackson Landscaping" onclick="openFullscreen(this)">
                     </div>
                   
                    
@@ -322,7 +321,7 @@
                           <div class="d-flex h-100">
                               <div class="featured-text project-text w-100 my-auto text-center text-lg-left">
                                   <h4 class="text-white">Swimming Pools</h4>
-                                  <p class="mb-0 text-white-50">Our expertise can create you a bespoke garden swimming pool.</p>
+                                  <p class="mb-0 text-white-50">Our expertise can create you a tailor-made elegant garden swimming pool.</p>
                                   <hr class="d-none d-lg-block mb-0 ms-0" />
                               </div>
                           </div>
