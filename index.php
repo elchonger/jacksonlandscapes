@@ -106,7 +106,7 @@
                
             
                   <div class="gallery-container">
-                    <div class="dot-navigation">
+                    <div class="dot-navigation" data-gallery="fencing">
                       <span class="dot" onclick="currentSlide(1, 'fencing')"></span>
                       <span class="dot" onclick="currentSlide(2, 'fencing')"></span>
                       <span class="dot" onclick="currentSlide(3, 'fencing')"></span>
@@ -118,7 +118,7 @@
                       <span class="dot" onclick="currentSlide(9, 'fencing')"></span>
                       <span class="dot" onclick="currentSlide(10, 'fencing')"></span>
                     </div>
-                    <div class="image-gallery">
+                    <div class="image-gallery" data-gallery="fencing">
                       <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/6-ft-wooden-fence.webp" alt="Six-foot wooden panel fencing installed by Jackson Landscaping" onclick="openFullscreen(this)">
                       <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/wooden-gate-2.webp" alt="Beautifully crafted wooden gate by Jackson Landscaping" onclick="openFullscreen(this)">   
                       <img class="img-fluid services" src="assets/img/gallery/fencing-and-gates/drive-and-fencing.webp" alt="High-quality six-foot wooden fencing created and installed by Jackson Landscaping" onclick="openFullscreen(this)">                     
@@ -154,7 +154,7 @@
               <div class="row gx-0 mb-5 justify-content-center">
                   <div class="col-lg-6">
                     <div class="gallery-container">
-                      <div class="dot-navigation">
+                        <div class="dot-navigation" data-gallery="driveway">
                         <span class="dot" onclick="currentSlide(1, 'driveway')"></span>
                         <span class="dot" onclick="currentSlide(2, 'driveway')"></span>
                         <span class="dot" onclick="currentSlide(3, 'driveway')"></span>
@@ -162,7 +162,7 @@
           
                    
                       </div>
-                      <div class="image-gallery">
+                      <div class="image-gallery" data-gallery="driveway">
                         
                         <img class="img-fluid services" src="assets/img/gallery/driveways/image1.webp" alt="A brick paved driveway by Jackson Landscaping" onclick="openFullscreen(this)">
                         <img class="img-fluid services" src="assets/img/gallery/driveways/image4.webp" alt="Expertly Crafted Brick-Paved Driveway by Jackson Landscaping" onclick="openFullscreen(this)">
@@ -190,7 +190,7 @@
                   <div class="row gx-0 mb-5 justify-content-center">
                     <div class="col-lg-6">
                       <div class="gallery-container">
-                        <div class="dot-navigation">
+                        <div class="dot-navigation" data-gallery="paving">
                           <span class="dot" onclick="currentSlide(1, 'paving')"></span>
                           <span class="dot" onclick="currentSlide(2, 'paving')"></span>
                           <span class="dot" onclick="currentSlide(3, 'paving')"></span>
@@ -203,7 +203,7 @@
                           <span class="dot" onclick="currentSlide(10, 'paving')"></span>
                      
                         </div>
-                        <div class="image-gallery">
+                        <div class="image-gallery" data-gallery="paving">
                           <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-2.webp" alt="Beautifully Crafted Block-Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
                           <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/image2.webp" alt="Durable & Stylish Block Paved Patio by Jackson Landscaping" onclick="openFullscreen(this)">
                           <img class="img-fluid services" src="assets/img/gallery/block-paving-and-patios/patio-3.webp" alt="Expertly Laid Block Paving Patio by Jackson Landscaping" onclick="openFullscreen(this)">
@@ -236,12 +236,12 @@
                
             
                   <div class="gallery-container">
-                    <div class="dot-navigation">
+                    <div class="dot-navigation" data-gallery="artificial-lawn">
                       <span class="dot" onclick="currentSlide(1, 'artificial-lawn')"></span>
                       <span class="dot" onclick="currentSlide(2, 'artificial-lawn')"></span>
                  
                     </div>
-                    <div class="image-gallery">
+                    <div class="image-gallery" data-gallery="artificial-lawn">
                       <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-lawn.webp" alt="Artificial lawn by Jackson Landscaping" onclick="openFullscreen(this)">
                       <img class="img-fluid services" src="assets/img/gallery/artificial-lawns/artifical-turf.webp" alt="Artificial turfing by Jackson Landscaping" onclick="openFullscreen(this)">                     
                     </div>
@@ -266,14 +266,14 @@
                
             
                   <div class="gallery-container">
-                    <div class="dot-navigation">
+                    <div class="dot-navigation" data-gallery="cabins">
                       <span class="dot" onclick="currentSlide(1, 'cabins')"></span>
                       <span class="dot" onclick="currentSlide(2, 'cabins')"></span>
                       <span class="dot" onclick="currentSlide(3, 'cabins')"></span>
                       <span class="dot" onclick="currentSlide(4, 'cabins')"></span>
                  
                     </div>
-                    <div class="image-gallery">
+                    <div class="image-gallery" data-gallery="cabins">
                       <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/cabin-barbers.webp" alt="Custom-Built Wooden Cabin by Jackson Landscaping" onclick="openFullscreen(this)">
                       <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin-with-artifical-lawn.webp" alt="Handcrafted Wooden Cabin by Jackson Landscaping" onclick="openFullscreen(this)"> 
                       <img class="img-fluid services" src="assets/img/gallery/wooden-cabins/wooden-cabin.webp" alt="Jackson Landscaping’s Tailor-Made Wooden Cabin" onclick="openFullscreen(this)">   
@@ -297,7 +297,7 @@
                     <!-- Project six Row-->
               <div class="row gx-0 mb-5 justify-content-center">
                   <div class="col-lg-6"><div class="gallery-container">
-                    <div class="dot-navigation">
+                    <div class="dot-navigation" data-gallery="swimming-pools">
                       <span class="dot" onclick="currentSlide(1, 'swimming-pools')"></span>
                       <span class="dot" onclick="currentSlide(2, 'swimming-pools')"></span>
                       <span class="dot" onclick="currentSlide(3, 'swimming-pools')"></span>
@@ -306,7 +306,7 @@
     
                  
                     </div>
-                    <div class="image-gallery">
+                    <div class="image-gallery" data-gallery="swimming-pools">
                       <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-1.webp" alt="Exquisitely Designed Bespoke Swimming Pools by Jackson Landscaping" onclick="openFullscreen(this)">
                       <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-2.webp" alt="Custom Elegant Swimming Pools by Jackson Landscaping" onclick="openFullscreen(this)">
                       <img class="img-fluid services" src="assets/img/gallery/swimming-pools/swimming-pool-3.webp" alt="Luxury Bespoke Swimming Pools Crafted by Jackson Landscaping" onclick="openFullscreen(this)">
