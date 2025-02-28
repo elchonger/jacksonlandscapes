@@ -3,8 +3,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta property="og:title" content="Jackson Landscaping">
-        <meta property="og:description" content="Kent's premier landscaping and outdoor solutions specialists.">
+        <title>Jackson Fencing & Landscaping | Expert Outdoor Solutions in Kent</title>  
+        <meta name="description" content="Expert landscaping, fencing, and outdoor solutions in Kent. Transform your outdoor space with our professional services." />
+        <meta property="og:title" content="Jackson Fencing & Landscaping | Expert Outdoor Solutions in Kent">
+        <meta property="og:description" content="Expert landscaping, fencing, and outdoor solutions in Kent. Transform your outdoor space with our professional services.">
           <meta name="keywords" content="gardening, garden, landscaping, kent, westgate-on-sea, whitstable, faversham, margate, driveways, patios, fencing, gates">
         <meta property="og:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.webp">
         <meta property="og:url" content="https://jacksonlandscapes.uk">
@@ -348,7 +350,7 @@
 
                   <div class="shop-content">
                   <h2 class="text-white">Visit the shop</h2>
-                  <p class="text-white ">Visit our Westgate-on-Sea shop and browse our extensive range of wooden cabins. Not sure what paving to use? Then come on down and view all samples of fencing panels, paving and bricks.</p>
+                  <p class="text-white ">Visit our Westgate-on-Sea shop to explore our wide selection of wooden cabins. Unsure about paving options? Stop by to browse our full range of fencing panels, paving, and bricks.</p>
                   <p class="text-white ">Open to trades and the public.</p>
                   
                   <a class="btn btn-primary" href="https://www.google.com/maps/place/Jackson+Fencing+and+Landscapes/data=!4m2!3m1!1s0x0:0x2efd04bcaca83bb4?sa=X&ved=1t:2428&ictx=111">Visit us</a>
@@ -538,20 +540,21 @@
                     <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
-                                <i class="fas fa-envelope text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Email</h4>
+                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Phone</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="mailto:jacksonlandscapes111@outlook.com">jacksonlandscapes111@outlook.com</a></div>
+                                <div class="small text-black-50"><a href="tel:07956846616">07956 846616</a></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
-                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Phone</h4>
+                               
+                                <i class="fas fa-envelope text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="tel:07956846616">07956 846616</a></div>
+                                <div class="small text-black-50"><a href="mailto:jacksonlandscapes111@outlook.com">jacksonlandscapes111@outlook.com</a></div>
                             </div>
                         </div>
                     </div>
