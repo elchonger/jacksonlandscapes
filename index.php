@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <title>Jackson Fencing & Landscaping | Expert Outdoor Solutions in Kent</title>  
+        <title>Jackson Landscaping - Kent's premier landscaping and outdoor solutions specialists.</title>
         <meta name="description" content="Expert landscaping, fencing, and outdoor solutions in Kent. Transform your outdoor space with our professional services." />
         <meta property="og:title" content="Jackson Fencing & Landscaping | Expert Outdoor Solutions in Kent">
         <meta property="og:description" content="Expert landscaping, fencing, and outdoor solutions in Kent. Transform your outdoor space with our professional services.">
@@ -15,12 +15,11 @@
         <meta name="twitter:image" content="https://jacksonlandscapes.uk/assets/img/gallery/patio-3.webp">
         <meta name="twitter:card" content="summary_large_image">
         
-        <title>Jackson Landscaping - Kent's premier landscaping and outdoor solutions specialists.</title>
+        
         <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
-       <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -579,7 +578,6 @@
         <!-- Footer-->
         <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">Copyright &copy; Jackson Landscapes <?php echo date("Y"); ?></div></footer>
         <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
         <script src="js/back-to-top.js"></script>
         <script src="js/jquery.blueimp-gallery.js"></script>
         <!-- Core theme JS-->
